@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NotificationIntent</string>
+    <string name="channel_description">Just some channel description</string>
+    <string name="channel_name">Some channel name</string>
+    <string name="notification_type_1">Notification Type 1</string>
+    <string name="request_code_title">Request code: %1$d</string>
+    <string name="notification_type_2">Notification Type 2</string>
+</resources>
